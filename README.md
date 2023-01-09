@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manasa Devarashetty
-- 👀 I’m interested in web development and open source
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
